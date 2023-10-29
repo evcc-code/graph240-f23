@@ -1,9 +1,5 @@
 body {
   background-color: white;
-   margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
   font-family: arial, helvetica;
 }
 
@@ -11,3 +7,17 @@ h1 {
   color: navy;
   font-size:32px;
 }
+.mymargin {
+    margin: 50px;
+    
+}
+.grids-example {
+      background: rgb(250, 250, 250);
+      margin: 10px auto;            
+      font-family: Roboto, 'Liberation Mono', Courier, monospace;
+      text-align: center;					
+      }	
+.graybox {
+      background: rgb(240, 240, 240);
+      border: 1px solid #ddd;			
+      }	 
